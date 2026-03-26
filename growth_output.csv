@@ -1,0 +1,10 @@
+ward,category,base_year,target_year,base_amount,target_amount,growth_pct,flag
+Ward-1,Roads,2023,2024,500000.0,620000.0,24.0,OK
+Ward-1,Sanitation,2023,2024,0.0,45000.0,,BASE_ZERO
+Ward-1,Water,2023,2024,300000.0,315000.0,5.0,OK
+Ward-2,Roads,2023,2024,410000.0,380000.0,-7.32,OK
+Ward-2,Sanitation,2023,2024,150000.0,175000.0,16.67,OK
+Ward-2,Water,2024,,200000.0,,,MISSING_YEAR
+Ward-3,Roads,2023,2024,600000.0,720000.0,20.0,OK
+Ward-3,Sanitation,2023,2024,90000.0,108000.0,20.0,OK
+Ward-3,Water,2023,2024,250000.0,310000.0,24.0,OK
